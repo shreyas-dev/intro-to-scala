@@ -1,5 +1,6 @@
 package lectures.basics
 
+// extends App makes the application runnable
 object Chapter1ValuesVariablesTypes extends App {
 
     //  Vals are immutable
@@ -39,5 +40,6 @@ object Chapter1ValuesVariablesTypes extends App {
     aVariable = 5 // these are called side effects . These are useful because allow of us to see that they are doing.
 
     // Programs with no side effects are simpler to understand.
+
 
 }

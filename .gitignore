@@ -1,4 +1,6 @@
 *.class
 *.log
 .idea
-.iml
+*.iml
+playground
+out
