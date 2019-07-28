@@ -1,4 +1,4 @@
-package lectures.basics
+package lectures.part1.basics
 
 // extends App makes the application runnable
 object Chapter1ValuesVariablesTypes extends App {

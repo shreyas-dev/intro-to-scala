@@ -1,4 +1,4 @@
-package lectures.basics
+package lectures.part1.basics
 
 object Chapter7DefaultAndNameArgs extends App {
   // specifying accumulator as 1 if not specified during function call

@@ -1,4 +1,4 @@
-package lectures.basics
+package lectures.part1.basics
 
 object Chapter2Expressions extends App {
   val x = 1 + 2 // Expression, the compiler will assign x with 3 and also with type Int

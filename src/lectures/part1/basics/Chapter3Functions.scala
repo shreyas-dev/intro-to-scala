@@ -1,4 +1,4 @@
-package lectures.basics
+package lectures.part1.basics
 
 object Chapter3Functions extends App {
   // def is keyword for function

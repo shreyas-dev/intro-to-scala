@@ -1,4 +1,4 @@
-package lectures.basics
+package lectures.part1.basics
 
 object Chapter6CallByNameAndValue extends App {
 

@@ -1,4 +1,4 @@
-package lectures.basics
+package lectures.part1.basics
 
 // What compiler knows without us telling about it.
 // Eg:- 1.Function with no return type
