@@ -1,6 +1,6 @@
 package lectures.part2.oops
 
-object Chapter4InheritanceAndTraits extends App{
+object Chapter4Inheritance extends App{
   // Scala has only single class inheritance
 
   class Animal {
