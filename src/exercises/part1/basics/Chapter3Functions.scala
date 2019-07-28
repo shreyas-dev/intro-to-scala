@@ -1,4 +1,4 @@
-package exercises.basics
+package exercises.part1.basics
 
 object Chapter3Functions extends App {
   /*

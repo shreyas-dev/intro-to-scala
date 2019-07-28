@@ -25,7 +25,7 @@ class Person(name:String, val age:Int = 0) {
   def greet ():Unit = println(s"Hi, I am $name")
 
   //multiple constructors
+  // Make use of this keyword
   def this(name:String) = this(name,0)
-
   def this() = this("Shreyas")
 }
