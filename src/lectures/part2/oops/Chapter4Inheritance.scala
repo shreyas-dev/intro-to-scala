@@ -28,7 +28,7 @@ object Chapter4Inheritance extends App{
   //  class Adult(name:String,age :Int,idCard) extends Person -> Invalid
   //  class Adult(name:String,age :Int,idCard) extends Person(name,age) -> Valid
 
-  class Adult(name:String,age :Int,idCard) extends Person(name) // Valid cause constructor exists with name param
+  class Adult(name:String,age :Int,idCard:String) extends Person(name) // Valid cause constructor exists with name param
 
   // Overriding
 
